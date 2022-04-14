@@ -1,11 +1,11 @@
-# MeetVerse
+# Meeting App
 <p align="center"> 
-  <h3 align="center">Virtualu Meet</h3>
+  <h3 align="center">Meet</h3>
 
   <p align="center">
     Don't be shy!
     <br />  
-     A Video Conference App where you can use your avatar.
+     A Video Conference App.
     <br />
   </p>
 </p>
